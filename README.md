@@ -4,9 +4,13 @@ Settings and extenstions I use for Firefox
 Firefox Flags:
 
 media.ffmpeg.vaapi.enabled to true
+
 media.ffvpx.enabled to false
+
 media.navigator.mediadatadecoder_vpx_enabled to true
+
 media.rdd-vpx.enabled to false
+
 // Video hardware acceleration for Linux.
 
 
