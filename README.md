@@ -34,6 +34,7 @@ Redirector  // Make redirects for different sites (e.g. https://discord.com > ht
 
 SponsorBlock  // Blocks youtube sponsors and other stuff.
 
+Bitwarden  // Password Manager.
 Stylus  // CSS injector with a theme finder for different sites.
 
 To Google Translate  // Right click on selected text put text  through Google Translate in another tab.
